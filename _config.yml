@@ -49,8 +49,8 @@ scholar:
   bibliography_template: pubstemplate
   style: apa
   locale: en
-  last_name: Zhang
-  first_name: [Ronghao, R.]
+  last_name: Qi
+  first_name: [Ruorong, R.]
   sort_by: year,month
   order: descending,descending
 

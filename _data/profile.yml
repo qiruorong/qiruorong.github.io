@@ -1,62 +1,58 @@
-image: assets/img/rz_portrait.jpg
-username: Ronghao Zhang
+image: assets/img/rqi.jpg
+username: Ruorong Qi
 description: 
-    <p> A Ph.D. student with a keen interest in applying or developing computational and engineering tools 
-    to understand the complexities of physiology, aiming to contribute to advancements in medical research.</p>
-webpage: https://ronghao-zhang.github.io
+    <p> An undergraduate student with a keen interest in applying or developing computational and engineering 
+    tools to understand the complexities of physiology, aiming to contribute to advancements in 
+    neuroscience-driven medical research.</p>
+
+webpage: https://qiruorong.github.io
 education: 
-  - start: 2023-08
-    end: 2028-08 (Expected)
-    education: Ph.D. student in Biomedical Engineering, Joint Georgia Institute of Technology & Emory University
-  - start: 2019-08
-    end: 2023-05
-    education : Bachelor of Science in Systems Biology, Case Western Reserve University
-  - start: 2019-08
-    end: 2023-05
-    education : Bachelor of Arts in Computer Science, Case Western Reserve University
+  - start: 2022-08
+    end: 2026-05 (Expected)
+    education: Bachelor of Science in Neuroscience and Behavioral Biology, Emory University
+  - start: 2022-08
+    end: 2026-05 (Expected)
+    education: Bachelor of Science in Applied Mathematics, Emory University
 experience:
-  - start: 2023-08
+  - start: 2023-01
     end: now
-    experience : Graduate Research Assistant, Emanual Lab, Department of Cell Biology, Emory University School of Medicine 
-  - start: 2022-05
-    end: 2022-08
-    experience : Summer Research Student, Bensmaia Lab, Department of Organismal Biology and Anatomy, University of Chicago 
-  - start: 2019-11
-    end: 2023-05
-    experience : Undergrad Research Assistant, Garvin & Gonzalez-Vicente Lab, Department of Physiology and Biophysics, Case Western Reserve University School of Medicine
+    experience : Undergraduate Research Assistant, Emanual Lab, Department of Cell Biology, Emory University School of Medicine 
+  - start: 2023-05
+    end: 2023-08
+    experience : Research and Development Intern, PuraCap Pharmaceutical, LLC 
 interests:
  - Neural basis of sensory signal processing and perception
  - Mechanism of sensory dysfunction and potential therapeutics in neurological diseases
  - Brain Computer Interface and neuroprosthetics for rehabilitation
 skills: 
-  - skill: Programming mainly with Python, MATLAB, R, Java, Shell 
+  - skill: Programming mainly with Python, MATLAB, R 
     value: 90
   - skill: Neuroimaging & Extracellular recording
     value: 90 
   - skill: Biological Bench Skills & Animal Surgeries
     value: 90
 social:
-  email: ronghao.zhang.academic@gmail.com # Full email address, e.g. "sample@google.com"
-  orcid: 0000-0001-6418-090X
-  scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=98B8saQAAAAJ
+  email: ruorong.qi.academic@gmail.com
+  orcid: 
+  scholar: 
   publons: 
   research_gate: 
-  linkedin: https://www.linkedin.com/in/ronghao-zhang-a81b05234/ # Full URL 
-  github: ronghao-zhang
+  linkedin: https://www.linkedin.com/in/ruorong-q-9042aa23a/
+  github: qiruorong
   gitlab: 
   bitbucket: 
   google_plus:
-  twitter: ZhangRongHao01
+  twitter: 
   youtube:
   facebook:
   instagram:
 honors: 
-  - date: 2023-05
-    description: Summa Cum Laude
-    organization: Case Western Reserve University
-  - date: 2022-04
-    description: Outstanding Junior Award
-    organization: Case Western Reserve University
-  - date: 2021-09
-    description: Phi Beta Kappa Prize
-    organization: Case Western Reserve University
+  - date: 2025-01 to 2025-12
+    description: Sartain Lanier Foundation Scholar Award
+    organization: Neural Engineering Center, Georgia Institute of Technology
+  - date: 2024-01 to 2024-12
+    description: Petit Lanier Scholarship
+    organization: Petit Scholar Program, Georgia Tech/Emory Computational Neural-Engineering Training Program
+  - date: 2025-05
+    description: Larry J. Young Memorial Symposium and Center for Behavioral Neuroscience Poster Award
+    organization: Emory University
