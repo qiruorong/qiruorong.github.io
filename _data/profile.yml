@@ -25,7 +25,7 @@ interests:
  - Mechanism of sensory dysfunction and potential therapeutics in neurological diseases
  - Brain Computer Interface and neuroprosthetics for rehabilitation
 skills: 
-  - skill: Programming mainly with Python, MATLAB, R 
+  - skill: Programming mainly with Python, MATLAB, R, PyTorch, TensorFlow
     value: 90
   - skill: Neuroimaging & Extracellular recording
     value: 90 

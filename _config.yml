@@ -8,15 +8,15 @@ blog: True
 lang: en
 
 # Search engine optimization settings
-title: Ronghao Zhang
-tagline: Undergrad at CWRU
-description: Current undergraduate student at Case Western Reserve University. Studying Systems Biology and Computer Science. Originally from China.  
-author: Ronghao Zhang
-logo: /assets/img/rz_portrait.png
+title: Ruorong Qi
+tagline: Undergrad at Emory
+description: Current undergraduate student at Emory University. Studying Systems Neuroscience and Behavioral Biology, Applied Mathematics. Originally from China.
+author: Ruorong Qi
+logo: 
 social:
-  name: Ronghao Zhang 
+  name: Ruorong Qi
   links:
-    - https://github.com/ronghao-zhang
+    - https://github.com/qiruorong
 locale: en_GB
 
 # Page Settings

@@ -1,13 +1,10 @@
 The MIT License (MIT)
 
+Copyright (c) 2025 Ruorong Qi (qiruorong)
 Copyright (c) 2025 Ronghao Zhang (ronghao-zhang)
 Copyright (c) 2020 Christoph Jabs (chrjabs)
 Copyright (c) 2019 naye0ng
 
----------------
-For Ronghao Zhang's Photography and Blog:
-Copyright © 2025 Ronghao Zhang. 
-All rights reserved, including the right to reproduce this material in any form whatsoever without permission from the copyright holder.
 
 ---------------
 For the website code (MIT License): 
