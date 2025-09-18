@@ -1,3 +1,30 @@
+// @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:wght@300&display=swap');
+
+/* Fix bold text being stripped inside links */
+a span[style*="font-weight"] {
+    font-weight: bold !important;
+}
+
+/* Reinforce <strong> regardless of nesting */
+strong {
+    font-weight: bold !important;
+}
+
+body {
+  background-color: #fff;
+  padding:0px;
+  font: 16.0px/1.5 Roboto, sans-serif; 
+  color:#000000;
+  font-weight:300;
+  font-style: normal;
+  margin:0
+}
+
 .pub-row {
   display: flex; 
   align-items: center;}
@@ -216,13 +243,12 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        width: 65%;
+        padding: 10px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
-
     #header .image.avatar {
       margin: 0 0 1em 0;
       width: 8.00em;

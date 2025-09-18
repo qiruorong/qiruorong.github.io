@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a 4th year Undergraduate student at Emory University, pursuing degree at Applied Mathematics (B.S.) and Neuroscience (B.S.). I am a founding member of [the Emanuel Lab](https://www.emanuellab.com/) and working as research assistant since Freshman. Funded by [Petit Lanier Scholarship](https://cntp.bme.gatech.edu/petit-lanier-scholars/)($8,000) and [Sartian Lanier Scholar Award](https://nec.gatech.edu/)($10,000), my research focuses on sensory information encoding in Primary Somatosensory Cortex in the context of Parkinson's disease (manuscript in preperation). I work with [Alan Emanuel](https://biomed.emory.edu/PROGRAM_SITES/NS/about-us/faculty-detail/alan-j-emanuel-phd/) and [Chris Rodgers](https://biology.emory.edu/people/bios/associated/rodgers-chris.html) and gained ample experience in electrophysiology data recording & analysis, 2-photon imaging, IHC, hardware, etc. 
+
+Besides, I have explored ML research with [Yuanzhe Xi](https://www.math.emory.edu/~yxi26/) at Emory Math Department, and did R&D work at PuraCap Pharmaceuticals, Pfizer as an intern. 
+
+
 
 ## Research Interests
 
