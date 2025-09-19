@@ -4,17 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a 4th year Undergraduate student at Emory University, pursuing degree at Applied Mathematics (B.S.) and Neuroscience (B.S.). I am a founding member of [the Emanuel Lab](https://www.emanuellab.com/) and working as research assistant since Freshman. Funded by [Petit Lanier Scholarship](https://cntp.bme.gatech.edu/petit-lanier-scholars/)($8,000) and [Sartian Lanier Scholar Award](https://nec.gatech.edu/)($10,000), my research focuses on sensory information encoding in Primary Somatosensory Cortex in the context of Parkinson's disease (manuscript in preperation). I work with [Alan Emanuel](https://biomed.emory.edu/PROGRAM_SITES/NS/about-us/faculty-detail/alan-j-emanuel-phd) and [Chris Rodgers](https://biology.emory.edu/people/bios/associated/rodgers-chris.html) and gained ample experience in electrophysiology data recording & analysis, 2-photon imaging, IHC, hardware, etc. Besides, I have explored ML research with [Yuanzhe Xi](https://www.math.emory.edu/~yxi26/) at Emory Math Department, and did R&D work at PuraCap Pharmaceuticals, Pfizer as an intern. 
+I am a 4th year Undergraduate student at Emory University, pursuing degree at Applied Mathematics (B.S.) and Neuroscience (B.S.). I am a founding member of [the Emanuel Lab](https://www.emanuellab.com/) and working as research assistant since Freshman. Funded by [Petit Lanier Scholarship](https://cntp.bme.gatech.edu/petit-lanier-scholars/) ($8,000) and [Sartian Lanier Scholar Award](https://nec.gatech.edu/) ($10,000), my research focuses on sensory information encoding in Primary Somatosensory Cortex in the context of Parkinson's disease (manuscript in preperation). I work with [Alan Emanuel](https://biomed.emory.edu/PROGRAM_SITES/NS/about-us/faculty-detail/alan-j-emanuel-phd) and [Chris Rodgers](https://biology.emory.edu/people/bios/associated/rodgers-chris.html) and gained ample experience in electrophysiology data recording & analysis, 2-photon imaging, IHC, hardware, etc. Besides, I have explored ML research with [Yuanzhe Xi](https://www.math.emory.edu/~yxi26/) at Emory Math Department, and did R&D work at PuraCap Pharmaceuticals, Pfizer as an intern. 
 
 Personally, I have been fortunate to benefit from learning opportunities and mentorships. Equity in education in my community and society at large is important to me. During my undergrad study, I served as TA for 3 courses in 6 semesters, and in Meier SMA Advocacy Center in promoting medical support in Nusinersen, in Paris Olympics doping control.
 
-I am happy to connect and engage in discussions related to my interests and beyond. Feel free to reach me at evayixie [at] princeton [dot] edu for any inquiry。
-
-<!-- I am happy to connect and engage in discussions related to my interests and beyond. Feel free to reach me at ruorong.qi [at] emory [dot] edu for any inquiry.  -->
+I am happy to connect and engage in discussions related to my interests and beyond. Feel free to reach me at [Ruorong Qi](mailto:ruorong.qi@emory.edu) for any inquiry.
 
 
 ### Name & Pronunciation
 I publish and go by my official name <b>Ruorong Qi</b> (pronounced: <em>Ru-ron Chee</em>)
+
+
 
 ## Research
 
@@ -36,20 +36,12 @@ Together, these efforts aim to advance our understanding of neural computation a
 Include but not limited to:
 - <strong>Theoretical/Computational Neuroscience:<strong> learning, memory, cognition, population coding, attractor model.
 - <strong>Machine Learning:<strong> biologically plausible learning system, AI Alignment and safe deployment. Exploring AI regulation + policy making.
-- <strong>NeuroAI:<strong> A combo of both displines, where the brain inspires better learning algorithm, and AI aids our understanding of the brain.
+- <strong>NeuroAI:<strong> A combo of both displines, where the brain inspires better learning algorithm, and AI aids our understanding of the brain. -->
 
-I believe good research needs both the depth and breath of knowledge and understanding. This enables meaningful associations, and thus leads to breakthroughs. So, I am always open to new things :) Before <strong>CompNeuro<strong> and <strong>NeuroAI<strong>, I did research in <strong>Bionics<strong>, <strong>Nuclear Science<strong>, and <strong>Genomics<strong>. -->
+I believe good research needs both the depth and breadth of knowledge and understanding. This enables meaningful associations, and thus leads to breakthroughs. So, I am always open to new things :) Before **CompNeuro** and **SystemNeuro**, I did research in **Kinesiology** and **Cognitive Psychology**.
 
-## CV
-
-A complete CV is available upon request.
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
-
 - **[Sept. 2025]** Presented at Emory Biology Department BioCompNS meeting on "Characterizing Population-Level Temporal Dynamics in Primary Somatosensory Cortex of MitoPark Mice"
 - **[Sept. 2025]** Abstract "Progression of abnormal signaling in primary somatosensory cortex of MitoPark mice" accepted at SfN 2025. San Diego, here we go!
 - **[August. 2025]** Received $750 Conference Presentation Grant @ Emory University to fund SfN travel.
@@ -57,6 +49,10 @@ A complete CV is available upon request.
 - **[Jan. 2025]** Received the Sartain Lanier Foundation Scholar Award ($10,000) @ the Neural Engineering Center, Georgia Institute of Technology, securing one year of research support in the EmanuelLab. Hooray!
 
 
-{% include_relative _includes/publications.md %}
+## CV
+A complete CV is available upon request.
 
-{% include_relative _includes/services.md %}
+
+<!-- {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %} -->
