@@ -8,6 +8,8 @@ I am a 4th year Undergraduate student at Emory University, pursuing degree at Ap
 
 Personally, I have been fortunate to benefit from learning opportunities and mentorships. Equity in education in my community and society at large is important to me. During my undergrad study, I served as TA for 3 courses in 6 semesters, and in Meier SMA Advocacy Center in promoting medical support in Nusinersen, in Paris Olympics doping control.
 
+I am enthusiastic about pursuing opportunities that allow me to channel my skills and passion for research into impactful projects. Whether it’s tackling challenging scientific questions or contributing to technological breakthroughs, I am committed to making a meaningful difference in the world through my work.
+
 I am happy to connect and engage in discussions related to my interests and beyond. Feel free to reach me at [Ruorong Qi](mailto:ruorong.qi@emory.edu) for any inquiry.
 
 
