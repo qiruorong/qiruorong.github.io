@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a 4th year Undergraduate student at Emory University, pursuing degree at Applied Mathematics (B.S.) and Neuroscience (B.S.). I am a founding member of [the Emanuel Lab](https://www.emanuellab.com/) and working as research assistant since Freshman. Funded by [Petit Lanier Scholarship](https://cntp.bme.gatech.edu/petit-lanier-scholars/) ($8,000) and [Sartian Lanier Scholar Award](https://nec.gatech.edu/) ($10,000), my research focuses on sensory information encoding in Primary Somatosensory Cortex in the context of Parkinson's disease (manuscript in preperation). I work with [Alan Emanuel](https://biomed.emory.edu/PROGRAM_SITES/NS/about-us/faculty-detail/alan-j-emanuel-phd) and [Chris Rodgers](https://biology.emory.edu/people/bios/associated/rodgers-chris.html) and gained ample experience in electrophysiology data recording & analysis, 2-photon imaging, IHC, hardware, etc. Besides, I have explored ML research at Emory Math Department, and did R&D work at PuraCap Pharmaceuticals, Pfizer as an intern. 
+I am a 4th-year undergraduate student at Emory University, pursuing degree at Applied Mathematics (B.S.) and Neuroscience (B.S.). I am a founding member and research assistant of [the Emanuel Lab](https://www.emanuellab.com/) since Freshman. Funded by [Petit Lanier Scholarship](https://cntp.bme.gatech.edu/petit-lanier-scholars/) ($8,000) and [Sartian Lanier Scholar Award](https://nec.gatech.edu/) ($10,000), my research focuses on physiology in Primary Somatosensory Cortex (S1) in health and disease. I work with [Alan Emanuel](https://biomed.emory.edu/PROGRAM_SITES/NS/about-us/faculty-detail/alan-j-emanuel-phd) and [Chris Rodgers](https://biology.emory.edu/people/bios/associated/rodgers-chris.html) and gained ample experience in NeuroPixel recording & analysis, 2-photon imaging, IHC, hardware, etc. Besides, I have explored ML research at Emory Math Department, and did R&D work at PuraCap Pharmaceuticals, Pfizer as an intern. 
 
 Personally, I have been fortunate to benefit from learning opportunities and mentorships. Equity in education in my community and society at large is important to me. During my undergrad study, I served as TA for 3 courses in 6 semesters, and in Meier SMA Advocacy Center in promoting medical support in Nusinersen, in Paris and Beijing Olympics doping control.
 
@@ -22,12 +22,13 @@ I publish and go by my official name <b>Ruorong Qi</b> (pronounced: <em>Ru-ron C
 
 <!-- My research seeks to understand <b>how multiple brain regions encode information and communicate with one another to coordinate the processes that allow us to interact with—and learn about—the world and ourselves</b>. These processes include navigating our surroundings and gathering information to make everyday decisions, which together shape <b>nearly all</b> of our daily activities and ultimately shape <em>who we are</em>. Yet, we still understand <em>remarkably little</em> about the neural mechanisms underlying these <em>fundamental</em> cognitive processes and behaviors. -->
 
-Broadly, I view sensation and motor function as a computational process grounded in the basis of neurons and synapses, and I believe we can gain insights into these processes through experiments and analysis on large-scale neurophysiological recordings. With the very recent development of multiple electrophysiology recording devices, we now have unprecedented opportunities to investigate: <b><em> How do neural populations interact to support somatosensory perception in health and disease? </em></b>  To that end, my research has spanned three main directions:
+Broadly, I view sensory and motor function as computational process grounded in the basis of neurons and synapses. and I believe we can gain insights into these processs through large-scale physiological recordings in behaving animals and quantitative analysis to reveal circuit-level principles. With the very recent development of multiple electrophysiology recording devices, we now have unprecedented opportunities to investigate: <b><em> How do neural populations interact to support somatosensory perception in health and disease?</em></b>  To that end, my research has spanned three main directions:
 
-1. <b>Descriptive</b>: Leveraging high-density Neuropixels recordings and two-photon imaging in behaving mice, I analyze population activity in primary somatosensory cortex (S1) to characterize how tactile information is represented and transformed in Parkinson’s disease models. This includes spike sorting 20+ animals, laminar current source density analysis, receptive-field mapping, and quantifying altered signal and noise correlations across disease progression 
+1. <b>Descriptive</b>: First to characterize compromised dopaminergic projection, single-neuron and population activity in Primary Somatosensory Cortex (S1) of Parkinson mice with electrophysiological experiment, computational and anatomical analysis.
 <a href="#" style="pointer-events:none; cursor:default; text-decoration:none;">[Ronghao Zhang, <b>Ruorong Qi</b>, Alan Emanuel; <b>SfN 2025</b> — PSTR447]</a>.
+<a href="#" style="pointer-events:none; cursor:default; text-decoration:none;">[<b>Manuscript in Preperation</b>]</a>.
 
-2. <b>Mechanistic</b>: Using optogenetic perturbations, behavioral assays, and two-photon imaging, I tested whether S1 is required for perception of movement direction in mice 
+2. <b>Mechanistic</b>: Understand the role of S1 in tactile discrimination with two-photon imaging and behavioral essays. 
 <a href="https://www.sfn.org/-/media/SfN/Documents/NEW-SfN/Meetings/Neuroscience-2024/Abstracts-and-Sessions/Abstract-PDFs/SFN24_Abstracts-PDF-Posters_TUES_AM.pdf" target="_blank">[Yuna Lee, <b>Ruorong Qi</b>, Alan Emanuel; <b>SfN 2024</b> — PSTR277.01/C159]</a>.
 
 3. <b>Normative</b>: Constructing multilayer spiking feedforward (and recurrent) network models grounded in efficient coding theory, constrained by parameters measured in(1), to simulate and compare somatosensory processing in healthy vs. Parkinsonian circuits 
@@ -47,7 +48,7 @@ I believe good research needs both the depth and breadth of knowledge and unders
 ## News
 - **[Sept. 2025]** Talked at Emory Biology Department BioCompNS meeting on "Characterizing Population-Level Temporal Dynamics in Primary Somatosensory Cortex of MitoPark Mice"
 - **[Sept. 2025]** Abstract "Progression of abnormal signaling in primary somatosensory cortex of MitoPark mice" accepted at SfN 2025. See you in San Diego!
-- **[August. 2025]** Received $750 Conference Presentation Grant @ Emory University to fund SfN travel.
+- **[August. 2025]** Received Conference Presentation Grant @ Emory University to fund SfN travel.
 - **[May. 2025]** Presented at Larry J. Young Memorial Symposium @ Emory University and received outstanding poster award. Yay!
 - **[Jan. 2025]** Funded by the Sartain Lanier Foundation Scholar Award ($10,000) @ the Neural Engineering Center, Georgia Institute of Technology, I will continue research in the EmanuelLab. Hooray!
 
@@ -55,7 +56,3 @@ I believe good research needs both the depth and breadth of knowledge and unders
 ## CV
 A complete CV is available upon request.
 
-
-<!-- {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %} -->
