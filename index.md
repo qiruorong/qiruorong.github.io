@@ -46,10 +46,16 @@ I believe good research needs both the depth and breadth of knowledge and unders
 
 
 ## News
+- **[Oct. 2025]** Nominated as [2025 Trainee Spotlight](https://med.emory.edu/departments/cell-biology/trainee-spotlight/index.html) @ Emory Cell Biology Department to acknowledge academic achievements and contributions to scientific outreach and community engagement. 
+
 - **[Sept. 2025]** Talked at Emory Biology Department BioCompNS meeting on "Characterizing Population-Level Temporal Dynamics in Primary Somatosensory Cortex of MitoPark Mice"
+
 - **[Sept. 2025]** Abstract "Progression of abnormal signaling in primary somatosensory cortex of MitoPark mice" accepted at SfN 2025. See you in San Diego!
+
 - **[August. 2025]** Received Conference Presentation Grant @ Emory University to fund SfN travel.
+
 - **[May. 2025]** Presented at Larry J. Young Memorial Symposium @ Emory University and received outstanding poster award. Yay!
+
 - **[Jan. 2025]** Funded by the Sartain Lanier Foundation Scholar Award ($10,000) @ the Neural Engineering Center, Georgia Institute of Technology, I will continue research in the EmanuelLab. Hooray!
 
 
