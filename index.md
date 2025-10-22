@@ -46,7 +46,7 @@ I believe good research needs both the depth and breadth of knowledge and unders
 
 
 ## News
-- **[Oct. 2025]** Nominated as [2025 Trainee Spotlight](https://med.emory.edu/departments/cell-biology/trainee-spotlight/index.html) @ Emory Cell Biology Department to acknowledge academic achievements and contributions to scientific outreach and community engagement. 
+- **[Oct. 2025]** Nominated [2025 Trainee Spotlight](https://med.emory.edu/departments/cell-biology/trainee-spotlight/index.html) @ Emory Cell Biology Department for "academic achievements and contributions to scientific outreach and community engagement". 
 
 - **[Sept. 2025]** Talked at Emory Biology Department BioCompNS meeting on "Characterizing Population-Level Temporal Dynamics in Primary Somatosensory Cortex of MitoPark Mice"
 
