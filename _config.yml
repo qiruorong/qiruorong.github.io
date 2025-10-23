@@ -1,13 +1,16 @@
 # Basic Information 
-title: Ruorong Qi
-position: Emory'26
-affiliation: Emory Cell Biology; Georgia Tech Neural Engineering Center; Emory'26
-email: ruorong [dot] qi [at] emory [dot] edu
+title: "Ruorong Qi"
+position: "Emory '26"
+affiliation: "Emory Cell Biology; Georgia Tech Neural Engineering Center; Emory '26"
+email: "ruorong.qi@emory.edu"
+
+fun_fact_1: "I used to play competitive volleyball — now the only spikes I generate (and analyze) are action potentials."
+fun_fact_2: "In mammals, the sense of touch is the first to develop and is said to be the last to be lost."
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: The Minimal Light is a scimple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
@@ -16,7 +19,6 @@ canonical: https://minimal-light-theme.yliu.me/
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/qiruorong
 linkedin: https://www.linkedin.com/in/ruorong-q-9042aa23a/
-email: ruorong.qi@emory.edu
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 

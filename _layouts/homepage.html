@@ -38,61 +38,53 @@
   </head>
   <body>
     <div class="wrapper">
-      {% include header.html %}
       <header>
-        
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+          <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
+        <p style="color:red;">DEBUG fun_fact_1: {{ site.fun_fact_1 }}</p>
+        <p style="color:red;">DEBUG fun_fact_2: {{ site.fun_fact_2 }}</p>
+
 
         {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
-        <br>
+          <p style="font-size:1.10rem; margin-bottom:0;">{{ site.position }}</p>
         {% endif %}
+
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
+          <p style="margin-top:0;"><autocolor>{{ site.affiliation }}</autocolor></p>
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
+
+        {% if site.fun_fact_1 %}
+          <p style="color:#6c757d; font-style:italic; margin-top:8px;">
+            <strong>Fun Fact #1:</strong> {{ site.fun_fact_1 }}
+          </p>
+        {% endif %}
+
+        {% if site.fun_fact_2 %}
+          <p style="color:#6c757d; font-style:italic;">
+            <strong>Fun Fact #2:</strong> {{ site.fun_fact_2 }}
+          </p>
         {% endif %}
 
         <br>
         <br>
         <div class="social-icons">
-        {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
-        {% endif %}
-
-        {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
-        </a>
-        {% endif %}
-
         {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
-          <i class="fab fa-github"></i>
-        </a>
+          <a href="{{ site.github_link }}"><i class="fab fa-github"></i></a>
         {% endif %}
-
         {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
-          <i class="fab fa-linkedin"></i>
-        </a>
+          <a href="{{ site.linkedin }}"><i class="fab fa-linkedin"></i></a>
         {% endif %}
-
+        {% if site.email %}
+          <a href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i></a>
+        {% endif %}
         {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-x-twitter"></i>
-        </a>
+          <a href="{{ site.twitter }}"><i class="fab fa-x-twitter"></i></a>
         {% endif %}
         </div>
-        <br>
+
 
       </header>
       <section>

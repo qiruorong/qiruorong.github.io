@@ -25,15 +25,14 @@ Understanding how the brain sense and decide how to navigate in environment is a
 <a href="https://www.sfn.org/-/media/SfN/Documents/NEW-SfN/Meetings/Neuroscience-2024/Abstracts-and-Sessions/Abstract-PDFs/SFN24_Abstracts-PDF-Posters_TUES_AM.pdf" target="_blank">[Yuna Lee, <b>Ruorong Qi</b>, Alan Emanuel; <b>SfN 2024</b> — PSTR277.01/C159]</a>.
 
 2. <b>Descriptive</b>: Fine sensorimotor control is severely impaired or absent when tactile signaling is disrupted. Although the motor symptoms of Parkinson’s disease are extensively studied, the neural mechanisms underlying the tactile deficits reported by over 90% of patients remain poorly understood. Specifically, how does dopamine depletion in S1 contribute to altered perception of gentle touch in Parkinson’s disease?
-<a href="#" style="pointer-events:none; cursor:default; text-decoration:none;">[Ronghao Zhang, <b>Ruorong Qi</b>, Alan Emanuel; <b>SfN 2025</b> — PSTR447]</a>.
-<a href="#" style="pointer-events:none; cursor:default; text-decoration:none;">[<b>Manuscript in Preperation, stay tune!</b>]</a>.
+<a href="#" style="pointer-events:none; cursor:default; text-decoration:none;">[Ronghao Zhang, <b>Ruorong Qi</b>, Alan Emanuel; <b>SfN 2025</b> — PSTR447]</a>
+<br>
+<a href="#" style="pointer-events:none; cursor:default; text-decoration:none;">[<b>Manuscript in Preparation, stay tuned!</b>]</a>
 
 3. <b>Normative</b>: Constructing multilayer spiking feedforward (and recurrent) network models grounded in efficient coding theory, constrained by parameters measured in(1), to simulate and compare somatosensory processing in healthy vs. Parkinsonian circuits 
 <a href="#" style="pointer-events:none; cursor:default; text-decoration:none;">[<b>Ongoing</b>]</a>.
 
-Together, these efforts aim to advance our understanding of somatosensation, as well as motor execution dysfunction in Parkinson's Disease due to the extensive coordination of sensory and motor systems. Developing an understanding of the mechanisms under tactile processing in health and PD may yield avenues for enhancing motor function in patients through optimization of non-invasive (e.g. tactile) neuromodulation of the somatosensory system. 
-
-<!-- I am interested in how population of neurons encodes information and participates in learning, memory, and other cognitive functions. Additionally, I am interested in exploring any low dimensional representations being shared across various tasks and/or organisms. I study this line of work through close collaboration with experimentalists, and keep an eye out for their potential applications in building intelligent systems or understanding neurological disorders. -->
+Together, these efforts aim to advance our understanding of signal processing in the somatosensory system. Doing so has the potential to lead to treatments for sensorimotor disorders, whether through improvement of brain-machine interfaces or development of neurobiological interventions.
 
 
 ### Research Interest ###
