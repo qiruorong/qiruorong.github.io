@@ -43,11 +43,6 @@
           <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
-        <p style="color:red;">DEBUG fun_fact_1: {{ site.fun_fact_1 }}</p>
-        <p style="color:red;">DEBUG fun_fact_2: {{ site.fun_fact_2 }}</p>
-
-
         {% if site.position %}
           <p style="font-size:1.10rem; margin-bottom:0;">{{ site.position }}</p>
         {% endif %}
@@ -59,12 +54,6 @@
         {% if site.fun_fact_1 %}
           <p style="color:#6c757d; font-style:italic; margin-top:8px;">
             <strong>Fun Fact #1:</strong> {{ site.fun_fact_1 }}
-          </p>
-        {% endif %}
-
-        {% if site.fun_fact_2 %}
-          <p style="color:#6c757d; font-style:italic;">
-            <strong>Fun Fact #2:</strong> {{ site.fun_fact_2 }}
           </p>
         {% endif %}
 
