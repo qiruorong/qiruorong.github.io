@@ -29,7 +29,7 @@ Understanding how the brain sense and decide how to navigate in environment is a
 <br>
 <a href="#" style="pointer-events:none; cursor:default; text-decoration:none;">[<b>Manuscript in Preparation, stay tuned!</b>]</a>
 
-3. <b>Normative</b>: Constructing multilayer spiking feedforward (and recurrent) network models grounded in efficient coding theory, constrained by parameters measured in(1), to simulate and compare somatosensory processing in healthy vs. Parkinsonian circuits 
+3. <b>Normative</b>: Somatosensory circuits may be optimized to encode information efficiently, how would a Parkinsonian circuit deviate from it? 
 <a href="#" style="pointer-events:none; cursor:default; text-decoration:none;">[<b>Ongoing</b>]</a>.
 
 Together, these efforts aim to advance our understanding of signal processing in the somatosensory system. Doing so has the potential to lead to treatments for sensorimotor disorders, whether through improvement of brain-machine interfaces or development of neurobiological interventions.
