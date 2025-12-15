@@ -24,7 +24,8 @@ Understanding how the brain sense and decide how to navigate in environment is a
 1. <b>Mechanistic</b>: In the somatosensory system, features such as the direction of a moving touch are represented by activity in the Primary Somatosensory Cortex (S1). But does S1 merely encode this information, or is it actually required for animals to perceive it? 
 <a href="https://www.abstractsonline.com/pp8/#!/20433/presentation/17347" target="_blank">[Yuna Lee, <b>Ruorong Qi</b>, Alan Emanuel; <b>SfN 2024</b> — PSTR277.01/C159]</a>.
 
-2. <b>Descriptive</b>: Fine sensorimotor control is severely impaired or absent when tactile signaling is disrupted. Although the motor symptoms of Parkinson’s disease are extensively studied, the neural mechanisms underlying the tactile deficits reported by over 90% of patients remain poorly understood. Specifically, does dopamine depletion in S1 contribute to altered perception of gentle touch in Parkinson’s disease?
+2. <b>Descriptive</b>: Fine sensorimotor control is severely impaired or absent when tactile signaling is disrupted. Although the motor symptoms of Parkinson’s disease are extensively studied, the neural mechanisms underlying the tactile deficits reported by over 90% of patients remain poorly understood. Specifically, does dopamine depletion in S1 contribute to altered perception of gentle touch in Parkinson’s disease? 
+<br>
 <a href="https://www.abstractsonline.com/pp8/#!/21171/presentation/29856" target="_blank">[Ronghao Zhang, <b>Ruorong Qi</b>, Alan Emanuel; <b>SfN 2025</b> — PSTR447.03/N13]</a>
 <br>
 <a href="#" style="pointer-events:none; cursor:default; text-decoration:none;">[<b>Manuscript in Preparation, stay tuned!</b>]</a>
